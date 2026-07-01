@@ -8,7 +8,7 @@ It answers your Airbnb guests across web, WhatsApp and voice, grounded in your o
 
 🏆 **3rd place at the London Agentic AI Hack Night (June 2026)** · judges from Google, Meta, BimpeAI & BytePlus
 
-**Try it live:** [💬 Website chat demo](https://hello.studio39.uk/demo) · [📞 Voice + WhatsApp demo](https://studio39-welcome.vercel.app)
+**Try it live:** [📞 Voice + WhatsApp demo](https://studio39-welcome.vercel.app) · [💬 Website chat demo](https://hello.studio39.uk/demo)
 
 [Host landing page](https://butler-landing-ten.vercel.app)
 
